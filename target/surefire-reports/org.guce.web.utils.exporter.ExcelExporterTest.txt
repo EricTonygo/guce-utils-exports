@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.guce.web.utils.exporter.ExcelExporterTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 4, Time elapsed: 1.13 sec
